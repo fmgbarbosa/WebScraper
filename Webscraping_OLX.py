@@ -1,4 +1,4 @@
-﻿#Webscrapping for olx
+﻿#Webscraping for olx
 
 #0) Set workind directory
 
