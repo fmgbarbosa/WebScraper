@@ -1,4 +1,4 @@
-# WebScrapper
-WebScrapper developed in python to extract ad information from "custojusto" website
+# WebScraper
+WebScraper developed in python to extract ad information from "custojusto" website
 
-Webscrapper_OLX.py: Webscrapper able to crawl multiple pages.
+Webscraper_OLX.py: Webscraper able to crawl multiple pages.
